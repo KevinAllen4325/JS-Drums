@@ -1,5 +1,4 @@
 # JS-Drums
-Play drums with your fingertips!
 ### [Live Demo](https://kevinallen4325.github.io/JS-Drums/)
 **Play drums with your fingertips!!**
 
