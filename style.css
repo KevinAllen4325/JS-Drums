@@ -2,6 +2,7 @@ html {
   font-size: 10px;
   background: url(http://marketingland.com/wp-content/ml-loads/2015/09/ss-band-concert-crowd.jpg) bottom center;
   background-size: cover;
+  background-repeat:no-repeat;
 }
 body,html {
   margin: 0;
